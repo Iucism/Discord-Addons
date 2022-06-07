@@ -15,7 +15,7 @@ COMING SOON
 [No Sentry](https://github.com/strencher-kernel/no-sentry)
 
 [PCCompat](https://github.com/strencher-kernel/pc-compat)
-dont forget to pnpm i --production
+dont forget to npm i pnpm, pnpm i --production
 
 [Settings](https://github.com/strencher-kernel/settings)
 
