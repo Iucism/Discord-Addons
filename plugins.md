@@ -2,6 +2,24 @@
 
 COMING SOON
 
+# Kenerl Packages
+
+BDCompat
+
+CumCord Loader
+
+Discord Utilities
+
+Kernel Package Downloader
+
+No Sentry
+
+PCCompat
+
+Settings
+
+Webpack
+
 # Powercord
 
 betterInvites
