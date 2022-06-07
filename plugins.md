@@ -90,6 +90,8 @@ InvisibleTyping
 
 MemberCount
 
+MessageloggerV2
+
 PlatformIndicatiors
 
 SaveToRedux
