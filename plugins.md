@@ -4,21 +4,23 @@ COMING SOON
 
 # Kernel Packages
 
-BDCompat
+[BDCompat](https://github.com/strencher-kernel/bd-compat)
 
-CumCord Loader
+[CumCord Loader](https://github.com/kernel-mod/packages/tree/master/CumcordLoader)
 
-Discord Utilities
+[Discord Utilities](https://github.com/slow/discord-utilities)
 
-Kernel Package Downloader
+[Kernel Package Downloader](https://github.com/Henry-Hiles/kernel-package-downloader)
 
-No Sentry
+[No Sentry](https://github.com/strencher-kernel/no-sentry)
 
-PCCompat
+[PCCompat](https://github.com/strencher-kernel/pc-compat)
 
-Settings
+dont forget to pnpm i --production
 
-Webpack
+[Settings](https://github.com/strencher-kernel/settings)
+
+[Webpack](https://github.com/strencher-kernel/webpack)
 
 # Powercord
 
