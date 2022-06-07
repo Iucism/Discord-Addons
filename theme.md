@@ -1,15 +1,7 @@
-# Dark Discord
+# [Dark Discord](https://github.com/discord-modifications/dark-discord)
 
-https://github.com/discord-modifications/dark-discord
+# [RadialStatus](https://github.com/DiscordStyles/RadialStatus)
 
-# RadialStatus
+# [ItemPills](https://github.com/discord-extensions/item-pills/)
 
-https://github.com/DiscordStyles/RadialStatus
-
-# ItemPills
-
-https://github.com/discord-extensions/item-pills/
-
-# RevertRebrand
-
-https://github.com/Goose-Nest/GT-RevertRebrand
+# [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
