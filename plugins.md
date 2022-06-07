@@ -2,7 +2,7 @@
 
 COMING SOON
 
-# Kenerl Packages
+# Kernel Packages
 
 BDCompat
 
