@@ -1,13 +1,15 @@
-# dark discord 
+# Dark Discord
 
 https://github.com/discord-modifications/dark-discord
 
-# radialstatus
+# RadialStatus
 
 https://github.com/DiscordStyles/RadialStatus
 
-# itempills
+# ItemPills
 
-# revertrebrand
+https://github.com/discord-extensions/item-pills/
+
+# RevertRebrand
 
 https://github.com/Goose-Nest/GT-RevertRebrand
