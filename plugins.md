@@ -74,8 +74,6 @@ ZeresPluginLibrary
 
 XenoLib
 
-PlatformIndicatiors
-
 BetterImageViewer
 
 BetterRoleColors
@@ -91,6 +89,8 @@ GuildProfile
 InvisibleTyping
 
 MemberCount
+
+PlatformIndicatiors
 
 SaveToRedux
 
