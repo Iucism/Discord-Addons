@@ -28,7 +28,7 @@ Custom-Volume-Range
 
 fix-user-popouts
 
-hame-activity-toggle
+game-activity-toggle
 
 mention-cache-fix
   
@@ -97,4 +97,3 @@ SaveToRedux
 ShowSessions
 
 UserDetails
-  
