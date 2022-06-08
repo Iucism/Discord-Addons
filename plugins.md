@@ -94,7 +94,7 @@ COMING SOON
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
 
-### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (Using a modified version of RazorMoon's)
+### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (Using a modified version of RazorMoon's) (vcTimer link goes to my fork)
 >Shows how much time has passed since you joined a voice channel.
 
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
