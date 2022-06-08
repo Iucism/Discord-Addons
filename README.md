@@ -1,6 +1,6 @@
 # Discord addons
 
-Plugins/Themes I use for discord.com
+Plugins/Themes I use for [discord.com](https://discord.com/app)
 
 
 # HUGE SHOUT OUT TO [VOZY 💖💖💖](https://github.com/SlippingGitty) FOR HELPING ME
