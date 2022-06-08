@@ -39,7 +39,7 @@ COMING SOON
 >A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
 
 ### [Custom-Volume-Range](https://github.com/PandaDriver156/Custom-Volume-Range) by [PandaDriver156](https://github.com/PandaDriver156/)
->Allows you to set a user's volume over 200%
+>Allows you to set a user's volume over 200%.
 
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
 >Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
@@ -54,7 +54,7 @@ COMING SOON
 >Translates messages to and from languages semi-automagically. 
   
 ### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/)
->Improve Discord codeblocks
+>Improve Discord codeblocks.
   
 ### [PersistSettings](https://github.com/VenPlugs/PersistSettings) by [Ven](https://github.com/VenPlugs/)
 >This plugin solves the problem of Discord randomly deciding to clear your settings by backing them up regularly and restoring them when needed.
@@ -93,7 +93,7 @@ COMING SOON
 >Adds a command & button to react on message with regional indicators.
 
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
->A really simple plugin to get your Discord token via a command
+>A really simple plugin to get your Discord token via a command.
 
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
@@ -102,15 +102,15 @@ COMING SOON
 >Shows how much time has passed since you joined a voice channel.
 
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
->A simple powercord plugin that shows you when a bot is really a webhook
+>A simple powercord plugin that shows you when a bot is really a webhook.
 
 # BetterDiscord 🅱️
 
-### ZeresPluginLibrary by [Rauenzi](https://github.com/rauenzi)
->Zere's Plugin Library
+### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
+>Zere's Plugin Library.
 
-### XenoLib by [Lighty](https://github.com/1Lighty/)
->Plugin Library for Lighty's Plugins
+### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
+>Plugin Library for Lighty's Plugins.
 >
 ### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/)
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
@@ -137,7 +137,7 @@ COMING SOON
 >Displays a server's total count of members at the top of the member-list.
 
 ### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
->Adds indicators for every platform that the user is using. Source code availble on the ./src folder.
+>Adds indicators for every platform that the user is using.
 
 ### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
