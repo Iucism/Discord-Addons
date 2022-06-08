@@ -92,8 +92,8 @@ COMING SOON
 ### [text-react](https://github.com/Juby210/text-react) by [Juby210](https://github.com/Juby210/)
 >Adds a command & button to react on message with regional indicators.
 
-### token by Someone
->Filler
+### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
+>A really simple plugin to get your Discord token via a command
 
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
@@ -124,7 +124,7 @@ COMING SOON
 ### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
 >Set user volume values manually instead of using a limited slider.
 
-### Copier by Someone
+### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
 >filler
 
 ### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/)
