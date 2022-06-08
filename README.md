@@ -10,7 +10,7 @@ Plugins/Themes I use for [discord.com](https://discord.com/app)
 
 | <a href="https://github.com/Iucism" target="_blank"> <img src="https://avatars.githubusercontent.com/u/105166639?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?v=4" alt="" width="90px" height="90px"> </a> 
 |:-:|:-:|
-| Iucism | Vozer |
+| [Iucism](https://github.com/Iucism) | [Vozy](https://github.com/SlippingGitty) |
 
 ___
 
