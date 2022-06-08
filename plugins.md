@@ -74,8 +74,8 @@ COMING SOON
 ### [QuickEmoji](https://github.com/Iucism/QuickReact) by [Iucism](https://github.com/Iucism/)
 >Add Emojis to the message buttons.
 
-### reload-from-tray by Someone
->Filler
+### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
+>Small Powercord plugin to add reload and relaunch buttons to the system tray.
 
 ### [screenshare-crack](https://github.com/discord-modifications/screenshare-crack)by [Eternal](https://github.com/localip)
 >Allows you to screenshare in any quality/fps without nitro.
