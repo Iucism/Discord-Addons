@@ -11,8 +11,8 @@ COMING SOON
 ### [BDCompat](https://github.com/strencher-kernel/bd-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run bd plugins on Kernel.
 
-### CumCord Loader by Someone
-> Filler
+### [CumCord Loader](904233706355564564) by [Kyza](https://github.com/Kyza)
+> Injects Cumcord into your client.
 
 ### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip)
 >A package adding several utilities to discord.
