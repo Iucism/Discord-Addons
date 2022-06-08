@@ -125,7 +125,7 @@ COMING SOON
 >Set user volume values manually instead of using a limited slider.
 
 ### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
->filler
+>Allows you to copy certain stuff with custom options.
 
 ### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/)
 >In the event that your Discord crashes, the plugin enables you to get Discord back to a working state, without needing to reload at all.
