@@ -1,6 +1,6 @@
-# plugins-themes
+# Discord addons
 
-plugins/themes i used for discord
+Plugins/Themes I use for discord.com
 
 
 # HUGE SHOUT OUT TO [VOZY 💖💖💖](https://github.com/SlippingGitty)
