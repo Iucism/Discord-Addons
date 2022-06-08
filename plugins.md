@@ -19,9 +19,6 @@ COMING SOON
 ### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip)
 >A package adding several utilities to discord.
 
-### [Kernel Package Downloader](https://github.com/Henry-Hiles/kernel-package-downloader) by [Henery Hiles](https://github.com/Henry-Hiles)
->Download other packages from the #package-list channel with a single click. 
-
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
 >Make the discord sentry be quiet about your bad code.
 
