@@ -136,6 +136,9 @@ COMING SOON
 ### [MemberCount](https://github.com/Arashiryuu/crap/blob/cedc10283a20d5a48b990dfa120ef7bc696c7d53/ToastIntegrated/MemberCount/MemberCount.plugin.js) by [Arashiryuu](https://github.com/Arashiryuu/)
 >Displays a server's total count of members at the top of the member-list.
 
+### [MessageloggerV2](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/MessageLoggerV2) by [Lighty](https://github.com/1Lighty/)
+>Saves all deleted and purged messages, as well as all edit history and ghost pings. With highly configurable ignore options, and even restoring deleted messages after restarting Discord.
+
 ### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
 >Adds indicators for every platform that the user is using.
 
