@@ -3,7 +3,7 @@
 Plugins/Themes I use for discord.com
 
 
-# HUGE SHOUT OUT TO [VOZY 💖💖💖](https://github.com/SlippingGitty)
+# HUGE SHOUT OUT TO [VOZY 💖💖💖](https://github.com/SlippingGitty) FOR HELPING ME
 
 
 ## Contributors 
