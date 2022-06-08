@@ -6,7 +6,7 @@
 
 COMING SOON
 
-# Kenerl Packages 🌽
+# Kernel Packages 🌽
 
 ### [BDCompat](https://github.com/strencher-kernel/bd-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run bd plugins on Kernel.
