@@ -23,17 +23,11 @@ COMING SOON
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
 >Make the discord sentry be quiet about your bad code.
 
-### [PCCompat](https://github.com/strencher-kernel#:~:text=Popular%20repositories-,pc%2Dcompat,-Public) by [Strencher](https://github.com/Strencher)
+### [PCCompat](https://github.com/strencher-kernel/pc-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run powerCord plugins on Kernel.
-
 
 ### [Settings](https://github.com/strencher-kernel/settings) by [Strencher](https://github.com/Strencher)
 >Gives you a settings UI for kernel.
-
-[PCCompat](https://github.com/strencher-kernel/pc-compat)
->Allows you to run powerCord plugins on Kernel.
-dont forget to npm i pnpm, pnpm i --production
-
 
 ### [Webpack](https://github.com/strencher-kernel/webpack) by [Strencher](https://github.com/Strencher)
 >A webpack modules manager for discord's internals.
@@ -117,10 +111,7 @@ dont forget to npm i pnpm, pnpm i --production
 
 ### XenoLib by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins
-
-### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
->Adds indicators for every platform that the user is using. Source code availble on the ./src folder.
-
+>
 ### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/)
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
@@ -144,6 +135,9 @@ dont forget to npm i pnpm, pnpm i --production
 
 ### [MemberCount](https://github.com/Arashiryuu/crap/blob/cedc10283a20d5a48b990dfa120ef7bc696c7d53/ToastIntegrated/MemberCount/MemberCount.plugin.js) by [Arashiryuu](https://github.com/Arashiryuu/)
 >Displays a server's total count of members at the top of the member-list.
+
+### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
+>Adds indicators for every platform that the user is using. Source code availble on the ./src folder.
 
 ### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
