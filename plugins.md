@@ -66,10 +66,7 @@ COMING SOON
   
 ### [Quick-Channel-Mute](https://github.com/A-Trash-Coder/Quick-Channel-Mute) by [A Trash Coder](https://github.com/A-Trash-Coder/)
 >This plugin adds a button to channels. Once clicked, it mutes the channel. Click it again and it un-mutes the channel.
-  
-### [quick-delete](https://github.com/the-cord-plug/quick-delete-pc) by [Jai (?)](https://github.com/jdadonut)
->Hold a keybind and click a message you can delete to delete said message!
-  
+
 ### [QuickEmoji](https://github.com/Iucism/QuickReact) by [Iucism](https://github.com/Iucism/)
 >Add Emojis to the message buttons.
 
@@ -97,7 +94,7 @@ COMING SOON
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
 
-### [vcTimer](https://github.com/RazerMoon/vcTimer) by [RazerMoon](https://github.com/RazerMoon/)
+### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (Using a modified version of RazorMoon's)
 >Shows how much time has passed since you joined a voice channel.
 
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
@@ -158,6 +155,6 @@ ___
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Strencher | Eternal | Kyza | 12944qwerty | PandaDriver156 | Cynthia | Juby210 | Asportnoy | Powercord ORG | Vendicated | 
 
-| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/lorencerri/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6889275?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/Puyodead1/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/A-Trash-Coder/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/jdadonut" target="_blank"> <img src="https://avatars.githubusercontent.com/u/47060357?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/1Lighty/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/jaimeadf/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/Arashiryuu?" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="96px" height="96px"> </a> 
+| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/lorencerri/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6889275?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/Puyodead1/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/A-Trash-Coder/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/rauenzi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6865942?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/1Lighty/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/jaimeadf/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/Arashiryuu?" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="96px" height="96px"> </a> 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Vendicated | Loren Cerri | Puyodead1 | Gavyn S. | Jai | Fifi | Lighty | Mrmota | Arashiryuu |
+| Vendicated | Loren Cerri | Puyodead1 | Gavyn S. | Zerebos | Fifi | Lighty | Mrmota | Arashiryuu |
