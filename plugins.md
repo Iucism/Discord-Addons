@@ -26,8 +26,14 @@ COMING SOON
 ### [PCCompat](https://github.com/strencher-kernel#:~:text=Popular%20repositories-,pc%2Dcompat,-Public) by [Strencher](https://github.com/Strencher)
 >Allows you to run powerCord plugins on Kernel.
 
+
 ### [Settings](https://github.com/strencher-kernel/settings) by [Strencher](https://github.com/Strencher)
 >Gives you a settings UI for kernel.
+
+[PCCompat](https://github.com/strencher-kernel/pc-compat)
+>Allows you to run powerCord plugins on Kernel.
+dont forget to npm i pnpm, pnpm i --production
+
 
 ### [Webpack](https://github.com/strencher-kernel/webpack) by [Strencher](https://github.com/Strencher)
 >A webpack modules manager for discord's internals.
