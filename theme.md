@@ -9,7 +9,7 @@ ___
 
 ### [ItemPills](https://github.com/discord-extensions/item-pills/) by [LuckFire](https://github.com/LuckFire)
 
-### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [Ducko](https://github.com/Canada)
+### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [GooseNest](https://github.com/Goose-Nest)
 
 ___
 ## Theme Developers 
