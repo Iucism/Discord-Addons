@@ -19,11 +19,11 @@ ___
 
 
 
-# Unbound 🔗
+# [Unbound](https://unbound.rip) 🔗
 
 COMING SOON
 
-# Kernel Packages 🌽
+# [Kernel](https://github.com/kernel-mod) Packages 🌽
 
 ### [BDCompat](https://github.com/strencher-kernel/bd-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run bd plugins on Kernel.
@@ -47,7 +47,7 @@ COMING SOON
 >A webpack modules manager for discord's internals.
 
 
-# Powercord 🔌
+# [Powercord](https://powercord.dev/) 🔌
 
 ### [betterInvites](https://github.com/12944qwerty/betterInvites) by [12944qwerty](https://github.com/12944qwerty/)
 >A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
@@ -97,7 +97,7 @@ COMING SOON
 ### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/)
 >Animate smoothly when scrolling though discord!
 
-### [spotify-crack](https://github.com/discord-modifications/spotify-crack) by [Eternal](https://github.com/localip)
+### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (Using a modified version of Eternal's) (spotify-crack link goes to my fork)
 >Allows you to listen along with discord users without premium.
 
 ### [text-react](https://github.com/Juby210/text-react) by [Juby210](https://github.com/Juby210/)
@@ -115,7 +115,7 @@ COMING SOON
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
 >A simple powercord plugin that shows you when a bot is really a webhook.
 
-# BetterDiscord 🅱️
+# [BetterDiscord](https://betterdiscord.app) 🅱️
 
 ### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
 >Zere's Plugin Library.
@@ -166,13 +166,13 @@ COMING SOON
 
 ## Plugin Developers
 
-| <a href="https://github.com/Strencher" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46447572?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/localip" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98427312?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Kyza" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40003440?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/12944qwerty/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45984786?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/PandaDriver156/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46034537?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/cyyynthia/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9999055?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Juby210/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31005896?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/asportnoy/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14863373?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/powercord-org/powercord/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46755359?s=200&v=4" alt="90px" width="90px" height="90px"> </a>
+| <a href="https://github.com/Strencher" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46447572?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/localip" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98427312?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Kyza" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40003440?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/12944qwerty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45984786?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/PandaDriver156" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46034537?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/cyyynthia" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9999055?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Juby210" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31005896?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/asportnoy" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14863373?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/powercord-org/powercord" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46755359?s=200&v=4" alt="90px" width="90px" height="90px"> </a>
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Strencher | Eternal | Kyza | 12944qwerty | PandaDriver156 | Cynthia | Juby210 | Asportnoy | Powercord ORG | Vendicated | 
+| [Strencher](https://github.com/Strencher) | [Eternal](https://github.com/localip) | [Kyza](https://github.com/Kyza) | [12944qwerty](https://github.com/12944qwerty) | [PandaDriver156](https://github.com/PandaDriver156) | [Cynthia](https://github.com/cyyynthia) | [Juby210](https://github.com/Juby210) | [Asportnoy](https://github.com/asportnoy) | [Powercord ORG](https://github.com/powercord-org/powercord) |
 
-| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/lorencerri/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6889275?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puyodead1/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/A-Trash-Coder/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/rauenzi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6865942?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/1Lighty/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/jaimeadf/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="90[x" height="90px"> </a> | <a href="https://github.com/Arashiryuu?" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="90px" height="90px"> </a> 
+| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/lorencerri" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6889275?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puyodead1" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/A-Trash-Coder" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/rauenzi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6865942?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/1Lighty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/jaimeadf" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="90[x" height="90px"> </a> | <a href="https://github.com/Arashiryuu" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="90px" height="90px"> </a> 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Vendicated | lorencerri | Puyodead1 | A-Trash-Coder | Zerebos | FifiTheBullDog | 1Lighty | Jaimeadf | Arashiryuu |
+| [Vendicated](https://github.com/Vendicated) | [lorencerri](https://github.com/lorencerri) | [Puyodead1](https://github.com/Puyodead1) | [A-Trash-Coder](https://github.com/A-Trash-Coder) | [Zerebos](https://github.com/rauenzi) | [FifiTheBullDog](https://github.com/FifiTheBulldog) | [1Lighty](https://github.com/1Lighty) | [Jaimeadf](https://github.com/jaimeadf) | [Arashiryuu](https://github.com/Arashiryuu) |
 
 ___
 
@@ -183,7 +183,7 @@ ___
 
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 
-### [Item Pills](https://github.com/discord-extensions/item-pills/) by [LuckFire](https://github.com/LuckFire)
+### [Item Pills](https://github.com/discord-extensions/item-pills) by [LuckFire](https://github.com/LuckFire)
 
 ### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [GooseNest](https://github.com/Goose-Nest)
 
@@ -192,5 +192,5 @@ ___
 
 | <a href="https://github.com/Iocalip" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98427312?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Gibbu" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20338746?v=4" alt="" width="90px" height="90px"> </a> |  <a href="https://github.com/LuckFire" target="_blank"> <img src="https://avatars.githubusercontent.com/u/39076891?v=4" alt="" width="90px" height="90px"> </a> |  <a href="https://github.com/Goose-Nest" target="_blank"> <img src="https://avatars.githubusercontent.com/u/83981432?s=200&v=4" alt="" width="90px" height="90px"> </a>
 |:-:|:-:|:-:|:-:|
-| Eternal | Gibbu | LuckFire | GooseNest |
+| [Eternal](https://github.com/Iocalip) | [Gibbu](https://github.com/Gibbu) | [LuckFire](https://github.com/LuckFire) | [GooseNest](https://github.com/Goose-Nest) |
 
