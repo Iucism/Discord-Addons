@@ -19,9 +19,7 @@ ___
 
 
 
-# [Unbound](https://unbound.rip) 🔗
 
-COMING SOON
 
 # [Kernel](https://github.com/kernel-mod) Packages 🌽
 
@@ -46,6 +44,9 @@ COMING SOON
 ### [Webpack](https://github.com/strencher-kernel/webpack) by [Strencher](https://github.com/Strencher)
 >A webpack modules manager for discord's internals.
 
+# [Unbound](https://unbound.rip) 🔗
+
+COMING SOON
 
 # [Powercord](https://powercord.dev/) 🔌
 
