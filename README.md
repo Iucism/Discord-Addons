@@ -31,7 +31,7 @@ COMING SOON
 ### [CumCord Loader](904233706355564564) by [Kyza](https://github.com/Kyza)
 > Injects Cumcord into your client.
 
-### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip)
+### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip) - Must Have
 >A package adding several utilities to discord.
 
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
@@ -61,13 +61,13 @@ COMING SOON
 ### [game-activity-toggle](https://github.com/Juby210/game-activity-toggle) by [Juby210](https://github.com/Juby210/)
 >Shows a button to disable/enable the game status on the bottom left next to the mute button.
 
-### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/)
+### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/) - Must Have
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
   
 ### [message-translate](https://github.com/cyyynthia/message-translate) by [Cyyynthia](https://github.com/cyyynthia/)
 >Translates messages to and from languages semi-automagically. 
   
-### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/)
+### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/) - Must Have
 >Improve Discord codeblocks.
   
 ### [PersistSettings](https://github.com/VenPlugs/PersistSettings) by [Ven](https://github.com/VenPlugs/)
@@ -85,7 +85,7 @@ COMING SOON
 ### [QuickEmoji](https://github.com/Iucism/QuickReact) by [Iucism](https://github.com/Iucism/)
 >Add Emojis to the message buttons.
 
-### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
+### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox) - Must Have
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
 
 ### [screenshare-crack](https://github.com/discord-modifications/screenshare-crack)by [Eternal](https://github.com/localip)
@@ -94,7 +94,7 @@ COMING SOON
 ### [showAllMessageButtons](https://github.com/12944qwerty/showAllMessageButtons) by [12944qwerty](https://github.com/12944qwerty/)
 >Forces the utility buttons on messages hidden in the context menu to always be displayed as buttons.
 
-### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/)
+### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/) - Must Have
 >Animate smoothly when scrolling though discord!
 
 ### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (Using a modified version of Eternal's) (spotify-crack link goes to my fork)
@@ -123,7 +123,7 @@ COMING SOON
 ### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins.
 >
-### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/)
+### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/) - Must Have
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
 ### [BetterRoleColors](https://github.com/rauenzi/BetterDiscordAddons/tree/b4f8512bfbee34fe5e08d4748a78da463f03af52/Plugins/BetterRoleColors) by [Rauenzi](https://github.com/rauenzi/)
@@ -135,7 +135,7 @@ COMING SOON
 ### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
 >Allows you to copy certain stuff with custom options.
 
-### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/)
+### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/) - Must Have
 >In the event that your Discord crashes, the plugin enables you to get Discord back to a working state, without needing to reload at all.
 
 ### [GuildProfile](https://github.com/jaimeadf/BetterDiscordPlugins/blob/041d8f79c054c56e208aaec1d0dd44aa73058488/dist/GuildProfile/GuildProfile.plugin.js) by [Jaimeadf](https://github.com/jaimeadf/)
@@ -153,7 +153,7 @@ COMING SOON
 ### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
 >Adds indicators for every platform that the user is using.
 
-### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
+### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/) - Must Have
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
 
 ### [ShowSessions](https://github.com/Strencher/BetterDiscordStuff/tree/c9f67c6ca67a761fc79b24bf96c95f9cc49b2379/ShowSessions) by [Strencher](https://github.com/Strencher)
