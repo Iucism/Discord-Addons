@@ -63,10 +63,7 @@ COMING SOON
 
 ### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/) - Must Have
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
-  
-### [message-translate](https://github.com/cyyynthia/message-translate) by [Cyyynthia](https://github.com/cyyynthia/)
->Translates messages to and from languages semi-automagically. 
-  
+
 ### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/) - Must Have
 >Improve Discord codeblocks.
   
