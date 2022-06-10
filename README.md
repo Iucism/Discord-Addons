@@ -14,7 +14,7 @@ Plugins/Themes I use for [discord.com](https://discord.com/app)
 
 ___
 
-<h1 align="center">Packages ✨</h1>
+<h1 align="center">Packages 🌟</h1>
 
 # [Kernel](https://github.com/kernel-mod) Packages 🌽
 
