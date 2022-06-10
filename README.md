@@ -14,12 +14,7 @@ Plugins/Themes I use for [discord.com](https://discord.com/app)
 
 ___
 
-<h1 align="center">Plugins ✨</h1>
-
-
-
-
-
+<h1 align="center">Packages ✨</h1>
 
 # [Kernel](https://github.com/kernel-mod) Packages 🌽
 
@@ -43,6 +38,10 @@ ___
 
 ### [Webpack](https://github.com/strencher-kernel/webpack) by [Strencher](https://github.com/Strencher)
 >A webpack modules manager for discord's internals.
+
+___
+
+<h1 align="center">Plugins ✨</h1>
 
 # [Unbound](https://unbound.rip) 🔗
 
