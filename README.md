@@ -66,10 +66,7 @@ COMING SOON
 
 ### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/) - Must Have
 >Improve Discord codeblocks.
-  
-### [PersistSettings](https://github.com/VenPlugs/PersistSettings) by [Ven](https://github.com/VenPlugs/)
->This plugin solves the problem of Discord randomly deciding to clear your settings by backing them up regularly and restoring them when needed.
-  
+
 ### [powercord-message-tooltips](https://github.com/lorencerri/powercord-message-tooltips) by [Lorencerri](https://github.com/lorencerri/)
 >A simple plugin that displays useful information as tooltips in messages.
   
