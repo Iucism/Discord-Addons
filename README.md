@@ -67,9 +67,6 @@ COMING SOON
 ### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/) - Must Have
 >Improve Discord codeblocks.
 
-### [powercord-message-tooltips](https://github.com/lorencerri/powercord-message-tooltips) by [Lorencerri](https://github.com/lorencerri/)
->A simple plugin that displays useful information as tooltips in messages.
-  
 ### [powercord-stafftags](https://github.com/Puyodead1/powercord-stafftags) by [Puyodead1](https://github.com/Puyodead1/)
 >Displays owner, admin, and staff tags similar to bot tags, they can appear in the member list and/or chat.
   
@@ -132,6 +129,9 @@ COMING SOON
 ### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/) - Must Have
 >In the event that your Discord crashes, the plugin enables you to get Discord back to a working state, without needing to reload at all.
 
+### [ColorTooltips](https://github.com/Puv1s/ColorTooltips) by [Puv1s](https://github.com/Puv1s)
+>Plugin that highlights HEX, RGB and RGBA colors in chat.
+
 ### [GuildProfile](https://github.com/jaimeadf/BetterDiscordPlugins/blob/041d8f79c054c56e208aaec1d0dd44aa73058488/dist/GuildProfile/GuildProfile.plugin.js) by [Jaimeadf](https://github.com/jaimeadf/)
 >This plugin adds a modal that can be opened via any guild menu and contains various information about the guild, such as its owner, creation date, joined date, your friends and blocked users who are in it, and much more.
 
@@ -164,9 +164,9 @@ COMING SOON
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Strencher](https://github.com/Strencher) | [Eternal](https://github.com/localip) | [Kyza](https://github.com/Kyza) | [12944qwerty](https://github.com/12944qwerty) | [PandaDriver156](https://github.com/PandaDriver156) | [Cynthia](https://github.com/cyyynthia) | [Juby210](https://github.com/Juby210) | [Asportnoy](https://github.com/asportnoy) | [Powercord ORG](https://github.com/powercord-org/powercord) |
 
-| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/lorencerri" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6889275?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puyodead1" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/A-Trash-Coder" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/rauenzi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6865942?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/1Lighty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/jaimeadf" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="90[x" height="90px"> </a> | <a href="https://github.com/Arashiryuu" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="90px" height="90px"> </a> 
+| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puv1s" target="_blank"> <img src="https://avatars.githubusercontent.com/u/16616715?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puyodead1" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/A-Trash-Coder" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/rauenzi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6865942?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/1Lighty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/jaimeadf" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="90[x" height="90px"> </a> | <a href="https://github.com/Arashiryuu" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="90px" height="90px"> </a> 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Vendicated](https://github.com/Vendicated) | [lorencerri](https://github.com/lorencerri) | [Puyodead1](https://github.com/Puyodead1) | [A-Trash-Coder](https://github.com/A-Trash-Coder) | [Zerebos](https://github.com/rauenzi) | [FifiTheBullDog](https://github.com/FifiTheBulldog) | [1Lighty](https://github.com/1Lighty) | [Jaimeadf](https://github.com/jaimeadf) | [Arashiryuu](https://github.com/Arashiryuu) |
+| [Vendicated](https://github.com/Vendicated) | [Puv1s](https://github.com/Puv1s) | [Puyodead1](https://github.com/Puyodead1) | [A-Trash-Coder](https://github.com/A-Trash-Coder) | [Zerebos](https://github.com/rauenzi) | [FifiTheBullDog](https://github.com/FifiTheBulldog) | [1Lighty](https://github.com/1Lighty) | [Jaimeadf](https://github.com/jaimeadf) | [Arashiryuu](https://github.com/Arashiryuu) |
 
 ___
 
