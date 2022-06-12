@@ -73,8 +73,8 @@ COMING SOON
 ### [Quick-Channel-Mute](https://github.com/A-Trash-Coder/Quick-Channel-Mute) by [A Trash Coder](https://github.com/A-Trash-Coder/)
 >This plugin adds a button to channels. Once clicked, it mutes the channel. Click it again and it un-mutes the channel.
 
-### [QuickEmoji](https://github.com/Iucism/QuickReact) by [Iucism](https://github.com/Iucism/)
->Add Emojis to the message buttons.
+### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Iucism](https://github.com/Iucism/)
+>Adds Heart to message buttons.
 
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox) - Must Have
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
