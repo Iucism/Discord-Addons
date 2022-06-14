@@ -172,7 +172,7 @@ ___
 
 ### [Item Pills](https://github.com/discord-extensions/item-pills) by [LuckFire](https://github.com/LuckFire)
 
-### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [GooseNest](https://github.com/Goose-Nest)
+### [RevertRebrand](https://github.com/Iucism/GT-RevertRebrand-Custom) by [GooseNest](https://github.com/Goose-Nest) (Using a modified version) (RevertReband link goes to my fork)
 
 
 ## Theme Developers 
