@@ -3,7 +3,7 @@
 Packages/Plugins/Themes I use for [discord](https://discord.com/app)
 
 
-THANK YOU [VOZY](https://github.com/SlippingGitty) FOR HELPING ME 💖🌟
+**THANK YOU** [VOZY](https://github.com/SlippingGitty) FOR HELPING ME 💖🌟
 
 ___
 
