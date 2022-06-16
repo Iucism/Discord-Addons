@@ -51,9 +51,6 @@ COMING SOON
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
 >Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
 
-### [game-activity-toggle](https://github.com/Juby210/game-activity-toggle) by [Juby210](https://github.com/Juby210/)
->Shows a button to disable/enable the game status on the bottom left next to the mute button.
-
 ### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/) - Must Have
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
 
