@@ -45,6 +45,9 @@ COMING SOON
 ### [betterInvites](https://github.com/12944qwerty/betterInvites) by [12944qwerty](https://github.com/12944qwerty/)
 >A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
 
+### [CanaryLinks](https://github.com/asportnoy/CanaryLinks) by [asportnoy](https://github.com/asportnoy)
+>Powercord plugin to use discord.com instead of canary.discord.com when copying links
+
 ### [Custom-Volume-Range](https://github.com/PandaDriver156/Custom-Volume-Range) by [PandaDriver156](https://github.com/PandaDriver156/)
 >Allows you to set a user's volume over 200%.
 
