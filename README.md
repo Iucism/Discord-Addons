@@ -9,7 +9,7 @@ ___
 
 <h1 align="center">Packages 🌟</h1>
 
-# [Kernel](https://github.com/kernel-mod) Packages 🌽
+# [Kernel](https://github.com/kernel-mod) 🌽
 
 ### [BDCompat](https://github.com/strencher-kernel/bd-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run bd plugins on Kernel.
