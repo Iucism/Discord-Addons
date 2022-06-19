@@ -36,9 +36,52 @@ ___
 
 <h1 align="center">Plugins ✨</h1>
 
-# [Unbound](https://unbound.rip) 🔗
+# [BetterDiscord](https://betterdiscord.app) 🅱️
 
-COMING SOON
+### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
+>Zere's Plugin Library.
+
+### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
+>Plugin Library for Lighty's Plugins.
+>
+### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/) - Must Have
+>Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
+
+### [BetterRoleColors](https://github.com/rauenzi/BetterDiscordAddons/tree/b4f8512bfbee34fe5e08d4748a78da463f03af52/Plugins/BetterRoleColors) by [Rauenzi](https://github.com/rauenzi/)
+>Adds server-based role colors to typing, voice, popouts, modals and more!
+
+### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
+>Set user volume values manually instead of using a limited slider.
+
+### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
+>Allows you to copy certain stuff with custom options.
+
+### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/) - Must Have
+>In the event that your Discord crashes, the plugin enables you to get Discord back to a working state, without needing to reload at all.
+
+### [ColorTooltips](https://github.com/Puv1s/ColorTooltips) by [Puv1s](https://github.com/Puv1s)
+>Plugin that highlights HEX, RGB and RGBA colors in chat.
+
+### [GuildProfile](https://github.com/jaimeadf/BetterDiscordPlugins/blob/041d8f79c054c56e208aaec1d0dd44aa73058488/dist/GuildProfile/GuildProfile.plugin.js) by [Jaimeadf](https://github.com/jaimeadf/)
+>This plugin adds a modal that can be opened via any guild menu and contains various information about the guild, such as its owner, creation date, joined date, your friends and blocked users who are in it, and much more.
+
+### [InvisibleTyping](https://github.com/Strencher/BetterDiscordStuff/blob/06e4ec4ef7c38d0d001d240d7cc42b18ae2cf242/InvisibleTyping/InvisibleTyping.plugin.js) by [Strencher](https://github.com/Strencher)
+>Enhanced version of silent typing.
+
+### [MessageloggerV2](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/MessageLoggerV2) by [Lighty](https://github.com/1Lighty/)
+>Saves all deleted and purged messages, as well as all edit history and ghost pings. With highly configurable ignore options, and even restoring deleted messages after restarting Discord.
+
+### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
+>Adds indicators for every platform that the user is using.
+
+### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/) - Must Have
+>Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
+
+### [ShowSessions](https://github.com/Strencher/BetterDiscordStuff/tree/c9f67c6ca67a761fc79b24bf96c95f9cc49b2379/ShowSessions) by [Strencher](https://github.com/Strencher)
+>Shows your current sessions with a chat command '/sessions' or in the accounts panel.
+
+### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
+>Shows you a lot information about users in popouts.
 
 # [Powercord](https://powercord.dev/) 🔌
 
@@ -87,6 +130,9 @@ COMING SOON
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
 >A really simple plugin to get your Discord token via a command.
 
+### [total-members](https://github.com/cyyynthia/total-members) by [Cynthia](https://github.com/cyyynthia)
+>Shows a counter of the total amount of members in a server on the members list.
+
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
 
@@ -96,67 +142,9 @@ COMING SOON
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
 >A simple powercord plugin that shows you when a bot is really a webhook.
 
-# [BetterDiscord](https://betterdiscord.app) 🅱️
+# [Unbound](https://unbound.rip) 🔗
 
-### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
->Zere's Plugin Library.
-
-### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
->Plugin Library for Lighty's Plugins.
->
-### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/) - Must Have
->Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
-
-### [BetterRoleColors](https://github.com/rauenzi/BetterDiscordAddons/tree/b4f8512bfbee34fe5e08d4748a78da463f03af52/Plugins/BetterRoleColors) by [Rauenzi](https://github.com/rauenzi/)
->Adds server-based role colors to typing, voice, popouts, modals and more!
-
-### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
->Set user volume values manually instead of using a limited slider.
-
-### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
->Allows you to copy certain stuff with custom options.
-
-### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/) - Must Have
->In the event that your Discord crashes, the plugin enables you to get Discord back to a working state, without needing to reload at all.
-
-### [ColorTooltips](https://github.com/Puv1s/ColorTooltips) by [Puv1s](https://github.com/Puv1s)
->Plugin that highlights HEX, RGB and RGBA colors in chat.
-
-### [GuildProfile](https://github.com/jaimeadf/BetterDiscordPlugins/blob/041d8f79c054c56e208aaec1d0dd44aa73058488/dist/GuildProfile/GuildProfile.plugin.js) by [Jaimeadf](https://github.com/jaimeadf/)
->This plugin adds a modal that can be opened via any guild menu and contains various information about the guild, such as its owner, creation date, joined date, your friends and blocked users who are in it, and much more.
-
-### [InvisibleTyping](https://github.com/Strencher/BetterDiscordStuff/blob/06e4ec4ef7c38d0d001d240d7cc42b18ae2cf242/InvisibleTyping/InvisibleTyping.plugin.js) by [Strencher](https://github.com/Strencher)
->Enhanced version of silent typing.
-
-### [MemberCount](https://github.com/Arashiryuu/crap/blob/cedc10283a20d5a48b990dfa120ef7bc696c7d53/ToastIntegrated/MemberCount/MemberCount.plugin.js) by [Arashiryuu](https://github.com/Arashiryuu/)
->Displays a server's total count of members at the top of the member-list.
-
-### [MessageloggerV2](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/MessageLoggerV2) by [Lighty](https://github.com/1Lighty/)
->Saves all deleted and purged messages, as well as all edit history and ghost pings. With highly configurable ignore options, and even restoring deleted messages after restarting Discord.
-
-### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
->Adds indicators for every platform that the user is using.
-
-### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/) - Must Have
->Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
-
-### [ShowSessions](https://github.com/Strencher/BetterDiscordStuff/tree/c9f67c6ca67a761fc79b24bf96c95f9cc49b2379/ShowSessions) by [Strencher](https://github.com/Strencher)
->Shows your current sessions with a chat command '/sessions' or in the accounts panel.
-
-### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
->Shows you a lot information about users in popouts.
-
-
-
-## Plugin Developers
-
-| <a href="https://github.com/Strencher" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46447572?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/localip" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98427312?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Kyza" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40003440?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/12944qwerty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45984786?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/PandaDriver156" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46034537?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/cyyynthia" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9999055?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Juby210" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31005896?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/asportnoy" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14863373?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/powercord-org/powercord" target="_blank"> <img src="https://avatars.githubusercontent.com/u/46755359?s=200&v=4" alt="90px" width="90px" height="90px"> </a>
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Strencher](https://github.com/Strencher) | [Eternal](https://github.com/localip) | [Kyza](https://github.com/Kyza) | [12944qwerty](https://github.com/12944qwerty) | [PandaDriver156](https://github.com/PandaDriver156) | [Cynthia](https://github.com/cyyynthia) | [Juby210](https://github.com/Juby210) | [Asportnoy](https://github.com/asportnoy) | [Powercord ORG](https://github.com/powercord-org/powercord) |
-
-| <a href="https://github.com/Vendicated" target="_blank"> <img src="https://avatars.githubusercontent.com/u/45497981?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puv1s" target="_blank"> <img src="https://avatars.githubusercontent.com/u/16616715?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Puyodead1" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14828766?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/A-Trash-Coder" target="_blank"> <img src="https://avatars.githubusercontent.com/u/38404553?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/rauenzi" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6865942?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/FifiTheBulldog" target="_blank"> <img src="https://avatars.githubusercontent.com/u/63314105?v=4" alt="" width="90x" height="90px"> </a> | <a href="https://github.com/1Lighty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49841131?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/jaimeadf" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40345645?v=4" alt="" width="90[x" height="90px"> </a> | <a href="https://github.com/Arashiryuu" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24483230?v=4" alt="" width="90px" height="90px"> </a> 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Vendicated](https://github.com/Vendicated) | [Puv1s](https://github.com/Puv1s) | [Puyodead1](https://github.com/Puyodead1) | [A-Trash-Coder](https://github.com/A-Trash-Coder) | [Zerebos](https://github.com/rauenzi) | [FifiTheBullDog](https://github.com/FifiTheBulldog) | [1Lighty](https://github.com/1Lighty) | [Jaimeadf](https://github.com/jaimeadf) | [Arashiryuu](https://github.com/Arashiryuu) |
+COMING SOON
 
 ___
 
@@ -165,16 +153,10 @@ ___
 
 ### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [Eternal](https://github.com/localip)
 
-### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
-
 ### [Item Pills](https://github.com/discord-extensions/item-pills) by [LuckFire](https://github.com/LuckFire)
+
+### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 
 ### [RevertRebrand](https://github.com/Iucism/RevertRebrand-Custom) by [GooseNest](https://github.com/Goose-Nest) (Using a modified version) (RevertReband link goes to my fork)
 
-
-## Theme Developers 
-
-| <a href="https://github.com/Iocalip" target="_blank"> <img src="https://avatars.githubusercontent.com/u/98427312?v=4" alt="" width="90px" height="90px"> </a> | <a href="https://github.com/Gibbu" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20338746?v=4" alt="" width="90px" height="90px"> </a> |  <a href="https://github.com/LuckFire" target="_blank"> <img src="https://avatars.githubusercontent.com/u/39076891?v=4" alt="" width="90px" height="90px"> </a> |  <a href="https://github.com/Goose-Nest" target="_blank"> <img src="https://avatars.githubusercontent.com/u/83981432?s=200&v=4" alt="" width="90px" height="90px"> </a>
-|:-:|:-:|:-:|:-:|
-| [Eternal](https://github.com/Iocalip) | [Gibbu](https://github.com/Gibbu) | [LuckFire](https://github.com/LuckFire) | [GooseNest](https://github.com/Goose-Nest) |
 
