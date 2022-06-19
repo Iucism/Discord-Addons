@@ -83,7 +83,7 @@ ___
 ### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
 >Shows you a lot information about users in popouts.
 
-# [Powercord](https://powercord.dev/) ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/540635231217123338_25.png)
+# [Powercord](https://powercord.dev/) ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/540635231217123338_1_20.png)
 
 ### [betterInvites](https://github.com/12944qwerty/betterInvites) by [12944qwerty](https://github.com/12944qwerty/)
 >A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
