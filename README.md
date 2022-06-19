@@ -36,7 +36,7 @@ ___
 
 <h1 align="center">Plugins ✨</h1>
 
-# [BetterDiscord](https://betterdiscord.app) ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/988098896892936254_25.png)
+# [BetterDiscord](https://betterdiscord.app) ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/988098896892936254_1_20.png)
 
 ### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
 >Zere's Plugin Library.
