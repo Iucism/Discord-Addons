@@ -142,7 +142,7 @@ ___
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
 >A simple powercord plugin that shows you when a bot is really a webhook.
 
-# [Unbound](https://unbound.rip) 🔗
+# [Unbound](https://unbound.rip) ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/988102118995013643-removebg-preview_20.png)
 
 COMING SOON
 
