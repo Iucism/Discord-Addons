@@ -159,6 +159,4 @@ ___
 
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 
-### [RevertRebrand](https://github.com/Iucism/RevertRebrand-Custom) by [GooseNest](https://github.com/Goose-Nest) (Using a modified version) (RevertReband link goes to my fork)
-
-
+### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [GooseNest](https://github.com/Goose-Nest) 
