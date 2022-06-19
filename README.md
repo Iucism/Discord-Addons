@@ -9,7 +9,7 @@ ___
 
 <h1 align="center">Packages 🌟</h1>
 
-# 🌽 [Kernel](https://github.com/kernel-mod)
+# [Kernel](https://github.com/kernel-mod)
 
 ### [BDCompat](https://github.com/strencher-kernel/bd-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run bd plugins on Kernel.
@@ -36,7 +36,7 @@ ___
 
 <h1 align="center">Plugins ✨</h1>
 
-# ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/988098896892936254_1_20.png) [BetterDiscord](https://betterdiscord.app) 
+# [BetterDiscord](https://betterdiscord.app) 
 
 ### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
 >Zere's Plugin Library.
@@ -83,7 +83,7 @@ ___
 ### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
 >Shows you a lot information about users in popouts.
 
-# ![8](https://www.simpleimageresizer.com/_uploads/photos/70dde39c/540635231217123338_1_20.png) [Powercord](https://powercord.dev/) 
+# [Powercord](https://powercord.dev/) 
 
 ### [betterInvites](https://github.com/12944qwerty/betterInvites) by [12944qwerty](https://github.com/12944qwerty/)
 >A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
@@ -142,7 +142,7 @@ ___
 ### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
 >A simple powercord plugin that shows you when a bot is really a webhook.
 
-# 🔗 [Unbound](https://unbound.rip) 
+# [Unbound](https://unbound.rip) 
 
 COMING SOON
 
