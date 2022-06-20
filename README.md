@@ -90,9 +90,6 @@ ___
 ### [betterInvites](https://github.com/12944qwerty/betterInvites) by [12944qwerty](https://github.com/12944qwerty/)
 >A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
 
-### [Custom-Volume-Range](https://github.com/PandaDriver156/Custom-Volume-Range) by [PandaDriver156](https://github.com/PandaDriver156/)
->Allows you to set a user's volume over 200%.
-
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
 >Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
 
