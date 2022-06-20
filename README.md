@@ -149,6 +149,8 @@ ___
 
 ### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [Eternal](https://github.com/localip)
 
+### [Essence](https://github.com/discord-extensions/essence) by [LuckFire](https://github.com/LuckFire)
+
 ### [Item Pills](https://github.com/discord-extensions/item-pills) by [LuckFire](https://github.com/LuckFire)
 
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
