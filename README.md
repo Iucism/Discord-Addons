@@ -114,9 +114,6 @@ ___
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox) - Must Have
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
 
-### [screenshare-crack](https://github.com/discord-modifications/screenshare-crack) by [Eternal](https://github.com/localip)
->Allows you to screenshare in any quality/fps without nitro.
-
 ### [showAllMessageButtons](https://github.com/12944qwerty/showAllMessageButtons) by [12944qwerty](https://github.com/12944qwerty/)
 >Forces the utility buttons on messages hidden in the context menu to always be displayed as buttons.
 
