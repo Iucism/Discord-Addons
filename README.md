@@ -108,9 +108,6 @@ ___
 
 ### [powercord-stafftags](https://github.com/Puyodead1/powercord-stafftags) by [Puyodead1](https://github.com/Puyodead1/)
 >Displays owner, admin, and staff tags similar to bot tags, they can appear in the member list and/or chat.
-  
-### [Quick-Channel-Mute](https://github.com/A-Trash-Coder/Quick-Channel-Mute) by [A Trash Coder](https://github.com/A-Trash-Coder/)
->This plugin adds a button to channels. Once clicked, it mutes the channel. Click it again and it un-mutes the channel.
 
 ### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Iucism](https://github.com/Iucism/)
 >Adds Heart to message buttons.
