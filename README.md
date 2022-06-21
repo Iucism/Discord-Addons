@@ -17,7 +17,9 @@ ___
 ### [CumCord Loader](https://github.com/kernel-mod/packages/tree/master/CumcordLoader) by [Kyza](https://github.com/Kyza)
 > Injects Cumcord into your client.
 
-> ATM using OpenAsar to inject cumcord by putting `"js": "fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"` in settings.json
+>Using OpenAsar to inject cumcord. Putting the bellow into settings.json,
+
+>`"js": "fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"`
 
 ### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip) - Must Have
 >A package adding several utilities to discord.
