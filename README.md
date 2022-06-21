@@ -88,7 +88,10 @@ ___
 # [Powercord](https://powercord.dev/) 
 
 ### [betterInvites](https://github.com/12944qwerty/betterInvites) by [12944qwerty](https://github.com/12944qwerty/)
->A powercord port of bakzkndd#2819's vizality plugin in order to make invites more handsome and beautiful.
+>A powercord port of bakzkndd#2819's vizality plugin in order to make invites morhandsome and beautiful.
+
+### [custom-timestamps](https://github.com/TaiAurori/custom-timestamps) by [TaiAuroi](https://github.com/TaiAurori)
+>A Powercord plugin that displays custom timestamps on messages.
 
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
 >Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
