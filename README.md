@@ -93,6 +93,8 @@ ___
 ### [custom-timestamps](https://github.com/TaiAurori/custom-timestamps) by [TaiAuroi](https://github.com/TaiAurori)
 >A Powercord plugin that displays custom timestamps on messages.
 
+>My timestamp schematic ` %0h:%0m:%0s %AM - %0M/%0D/%Y` My timestamp bubble schematic `%h:%0m:%0s %AM %W, %N %D, %Y`
+
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
 >Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
 
