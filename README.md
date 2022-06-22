@@ -18,7 +18,7 @@ ___
 > Injects Cumcord into your client.
 
 >Using OpenAsar to inject cumcord. Putting the bellow into settings.json,
-
+>
 >`"js": "fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"`
 
 ### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip) - Must Have
@@ -42,12 +42,6 @@ ___
 
 # [BetterDiscord](https://betterdiscord.app) 
 
-### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
->Zere's Plugin Library.
-
-### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
->Plugin Library for Lighty's Plugins.
->
 ### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/) - Must Have
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
@@ -86,6 +80,12 @@ ___
 
 ### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
 >Shows you a lot information about users in popouts.
+
+### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
+>Plugin Library for Lighty's Plugins.
+
+### [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary) by [Rauenzi](https://github.com/rauenzi)
+>Zere's Plugin Library.
 
 # [Powercord](https://powercord.dev/) 
 
