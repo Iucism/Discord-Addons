@@ -45,9 +45,6 @@ ___
 ### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/) - Must Have
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
-### [BetterRoleColors](https://github.com/rauenzi/BetterDiscordAddons/tree/b4f8512bfbee34fe5e08d4748a78da463f03af52/Plugins/BetterRoleColors) by [Rauenzi](https://github.com/rauenzi/)
->Adds server-based role colors to typing, voice, popouts, modals and more!
-
 ### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
 >Set user volume values manually instead of using a limited slider.
 
