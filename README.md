@@ -24,6 +24,9 @@ ___
 ### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip) - Must Have
 >A package adding several utilities to discord.
 
+### [HolyMod](https://github.com/HolyMod/HolyMod) by [Strencher](https://github.com/Strencher)
+>A lightweight client mod focused on simplicity and performance.
+
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
 >Make the discord sentry be quiet about your bad code.
 
@@ -78,6 +81,8 @@ ___
 ### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
 >Shows you a lot information about users in popouts.
 
+>Joined, Created, Last Message At off, show gamepad off
+
 ### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins.
 
@@ -115,6 +120,8 @@ ___
 ### [rolecolor-everywhere](https://github.com/12944qwerty/rolecolor-everywhere) by [Cynthia](https://github.com/cyyynthia)
 >Adds roles color to a lot of Discord's component, such as typing status and role names
 
+>Mentions and Messages off
+
 ### [showAllMessageButtons](https://github.com/12944qwerty/showAllMessageButtons) by [12944qwerty](https://github.com/12944qwerty/)
 >Forces the utility buttons on messages hidden in the context menu to always be displayed as buttons.
 
@@ -132,6 +139,13 @@ ___
 
 ### [total-members](https://github.com/cyyynthia/total-members) by [Cynthia](https://github.com/cyyynthia)
 >Shows a counter of the total amount of members in a server on the members list.
+>
+>Invites-like
+
+### [user-details](https://github.com/Juby210/user-details) by [Juby210](https://github.com/Juby210/)
+>Displays when user created account, joined to server and when sent last or first message in selected server / dm.
+>
+>Display "Last/First message" off, format `%H:%M %ampm - %m/%m/%y`
 
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
