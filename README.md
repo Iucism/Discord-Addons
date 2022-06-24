@@ -130,7 +130,7 @@ ___
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
 >A really simple plugin to get your Discord token via a command.
 
-### [total-members](https://github.com/cyyynthia/total-members) 
+### [total-members](https://github.com/cyyynthia/total-members) by [Cynthia](https://github.com/cyyynthia)
 >Shows a counter of the total amount of members in a server on the members list.
 
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
