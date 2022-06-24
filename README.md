@@ -112,7 +112,7 @@ ___
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox) - Must Have
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
 
-### [rolecolor-everywhere](https://github.com/12944qwerty/rolecolor-everywhere) by [12944qwerty](https://github.com/12944qwerty/)
+### [rolecolor-everywhere](https://github.com/12944qwerty/rolecolor-everywhere) by [Cynthia](https://github.com/cyyynthia)
 >Adds roles color to a lot of Discord's component, such as typing status and role names
 
 ### [showAllMessageButtons](https://github.com/12944qwerty/showAllMessageButtons) by [12944qwerty](https://github.com/12944qwerty/)
@@ -130,7 +130,7 @@ ___
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
 >A really simple plugin to get your Discord token via a command.
 
-### [total-members](https://github.com/cyyynthia/total-members) by [Cynthia](https://github.com/cyyynthia)
+### [total-members](https://github.com/cyyynthia/total-members) 
 >Shows a counter of the total amount of members in a server on the members list.
 
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
