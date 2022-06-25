@@ -44,7 +44,7 @@ ___
 
 # [BetterDiscord](https://betterdiscord.app) 
 
-### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/) - Must Have
+### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/)
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
 ### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
@@ -104,7 +104,7 @@ ___
 ### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/)
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
 
-### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/) - Must Have
+### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/)
 >Improve Discord codeblocks.
 
 ### [powercord-stafftags](https://github.com/Puyodead1/powercord-stafftags) by [Puyodead1](https://github.com/Puyodead1/)
