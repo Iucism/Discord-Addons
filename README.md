@@ -44,7 +44,7 @@ ___
 
 # [BetterDiscord](https://betterdiscord.app) 
 
-### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins) by [Lighty](https://github.com/1Lighty/)
+### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/BetterImageViewer) by [Lighty](https://github.com/1Lighty/)
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
 ### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
