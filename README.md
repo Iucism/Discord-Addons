@@ -96,7 +96,7 @@ ___
 
 ### [custom-timestamps](https://github.com/TaiAurori/custom-timestamps) by [TaiAuroi](https://github.com/TaiAurori)
 >A Powercord plugin that displays custom timestamps on messages.
-
+>
 >My timestamp schematic `%h:%0m %AM - %M/%D/%Y` My timestamp bubble schematic `%h:%0m %AM %W, %N %D, %Y`
 
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
@@ -119,7 +119,7 @@ ___
 
 ### [rolecolor-everywhere](https://github.com/12944qwerty/rolecolor-everywhere) by [Cynthia](https://github.com/cyyynthia)
 >Adds roles color to a lot of Discord's component, such as typing status and role names
-
+>
 >Mentions and Messages off
 
 ### [showAllMessageButtons](https://github.com/12944qwerty/showAllMessageButtons) by [12944qwerty](https://github.com/12944qwerty/)
