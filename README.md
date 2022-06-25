@@ -24,9 +24,6 @@ ___
 ### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip) - Must Have
 >A package adding several utilities to discord.
 
-### [HolyMod](https://github.com/HolyMod/HolyMod) by [Strencher](https://github.com/Strencher)
->A lightweight client mod focused on simplicity and performance.
-
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
 >Make the discord sentry be quiet about your bad code.
 
