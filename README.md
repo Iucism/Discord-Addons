@@ -14,14 +14,7 @@ ___
 ### [BDCompat](https://github.com/strencher-kernel/bd-compat) by [Strencher](https://github.com/Strencher)
 >Allows you to run bd plugins on Kernel.
 
-### [CumCord Loader](https://github.com/kernel-mod/packages/tree/master/CumcordLoader) by [Kyza](https://github.com/Kyza)
-> Injects Cumcord into your client.
-
->Using OpenAsar to inject cumcord. Putting the bellow into settings.json,
->
->`"js": "fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"`
-
-### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip) - Must Have
+### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip)
 >A package adding several utilities to discord.
 
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
@@ -35,6 +28,15 @@ ___
 
 ### [Webpack](https://github.com/strencher-kernel/webpack) by [Strencher](https://github.com/Strencher)
 >A webpack modules manager for discord's internals.
+
+
+
+<h1 align="center">Notes ✨</h1>
+
+# Cumcord
+>Using OpenAsar
+>
+>`"js": "fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"`
 
 ___
 
@@ -51,7 +53,7 @@ ___
 ### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
 >Allows you to copy certain stuff with custom options.
 
-### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/) - Must Have
+### [CrashRecovery](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/CrashRecovery) by [Lighty](https://github.com/1Lighty/)
 >In the event that your Discord crashes, the plugin enables you to get Discord back to a working state, without needing to reload at all.
 
 ### [ColorTooltips](https://github.com/Puv1s/ColorTooltips) by [Puv1s](https://github.com/Puv1s)
@@ -69,7 +71,7 @@ ___
 ### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
 >Adds indicators for every platform that the user is using.
 
-### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/) - Must Have
+### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
 
 ### [ShowSessions](https://github.com/Strencher/BetterDiscordStuff/tree/c9f67c6ca67a761fc79b24bf96c95f9cc49b2379/ShowSessions) by [Strencher](https://github.com/Strencher)
@@ -99,7 +101,7 @@ ___
 ### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
 >Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
 
-### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/) - Must Have
+### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/)
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
 
 ### [pc-codeblocks](https://github.com/powercord-org/powercord/tree/v2/src/Powercord/plugins/pc-codeblocks) by [Powercord-org](https://github.com/powercord-org/powercord/) - Must Have
@@ -111,7 +113,7 @@ ___
 ### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Iucism](https://github.com/Iucism/)
 >Adds Heart to message buttons.
 
-### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox) - Must Have
+### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
 
 ### [rolecolor-everywhere](https://github.com/12944qwerty/rolecolor-everywhere) by [Cynthia](https://github.com/cyyynthia)
@@ -122,7 +124,7 @@ ___
 ### [showAllMessageButtons](https://github.com/12944qwerty/showAllMessageButtons) by [12944qwerty](https://github.com/12944qwerty/)
 >Forces the utility buttons on messages hidden in the context menu to always be displayed as buttons.
 
-### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/) - Must Have
+### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/)
 >Animate smoothly when scrolling though discord!
 
 ### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (Using a modified version of Eternal's) (spotify-crack link goes to my fork)
@@ -160,7 +162,6 @@ COMING SOON
 ___
 
 <h1 align="center">Themes ✨</h1>
-
 
 ### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [Eternal](https://github.com/localip)
 
