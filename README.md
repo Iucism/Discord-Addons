@@ -92,9 +92,6 @@ ___
 >
 >My timestamp schematic `%h:%0m %AM - %M/%D/%Y` My timestamp bubble schematic `%h:%0m %AM %W, %N %D, %Y`
 
-### [fix-user-popouts](https://github.com/cyyynthia/fix-user-popouts) by [Cyyynthia](https://github.com/cyyynthia/)
->Fixes user popouts going off-screen when the content expands because Discord apparently is unable to do so by themselves.
-
 ### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/)
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
 
@@ -145,9 +142,6 @@ ___
 
 ### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (Using a modified version of RazorMoon's) (vcTimer link goes to my fork)
 >Shows how much time has passed since you joined a voice channel.
-
-### [webhook-tag](https://github.com/BenSegal855/webhook-tag) by [BenSegal855](https://github.com/BenSegal855/)
->A simple powercord plugin that shows you when a bot is really a webhook.
 
 # [Unbound](https://unbound.rip) 
 
