@@ -35,15 +35,6 @@ ___
 ### [Webpack](https://github.com/strencher-kernel/webpack) by [Strencher](https://github.com/Strencher)
 >A webpack modules manager for discord's internals.
 
-
-
-<h1 align="center">Notes ✨</h1>
-
-# Cumcord
->Using OpenAsar
->
->`"js": "fetch('https://raw.githubusercontent.com/Cumcord/builds/main/build.js').then(async x => eval(await x.text()))"`
-
 ___
 
 <h1 align="center">Plugins ✨</h1>
