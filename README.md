@@ -155,5 +155,4 @@ ___
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 
 ### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [GooseNest](https://github.com/Goose-Nest) 
->Variables and Watermark
-
+>Variables
