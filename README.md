@@ -74,11 +74,6 @@ ___
 ### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
 
-### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/0224369ac5352bae35f3860e423c6bdafb7ebb27/UserDetails) by [Strencher](https://github.com/Strencher)
->Shows you a lot information about users in popouts.
-
->Joined, Created, Last Message At off, show gamepad off
-
 ### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins.
 
