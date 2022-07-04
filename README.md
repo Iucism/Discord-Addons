@@ -59,9 +59,6 @@ ___
 ### [ColorTooltips](https://github.com/Puv1s/ColorTooltips) by [Puv1s](https://github.com/Puv1s)
 >Plugin that highlights HEX, RGB and RGBA colors in chat.
 
-### [GuildProfile](https://github.com/jaimeadf/BetterDiscordPlugins/blob/041d8f79c054c56e208aaec1d0dd44aa73058488/dist/GuildProfile/GuildProfile.plugin.js) by [Jaimeadf](https://github.com/jaimeadf/)
->This plugin adds a modal that can be opened via any guild menu and contains various information about the guild, such as its owner, creation date, joined date, your friends and blocked users who are in it, and much more.
-
 ### [InvisibleTyping](https://github.com/Strencher/BetterDiscordStuff/blob/06e4ec4ef7c38d0d001d240d7cc42b18ae2cf242/InvisibleTyping/InvisibleTyping.plugin.js) by [Strencher](https://github.com/Strencher)
 >Enhanced version of silent typing.
 
@@ -86,6 +83,9 @@ ___
 >A Powercord plugin that displays custom timestamps on messages.
 >
 >My timestamp schematic `%h:%0m %AM - %M/%D/%Y` My timestamp bubble schematic `%h:%0m %AM %W, %N %D, %Y`
+
+### [GuildProfile](https://github.com/NurMarvin/guild-profile) by [NurMarvin](https://github.com/NurMarvin)
+>Open a guild profile modal that gives you various information about the guild.
 
 ### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/)
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
