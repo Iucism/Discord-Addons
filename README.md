@@ -127,6 +127,9 @@ ___
 >
 >Invites-like
 
+### [Unindent](https://github.com/VenPlugs/Unindent) by [Vendicated](https://github.com/Vendicated)
+>Trims both messages you send and codeblocks sent by others.
+
 ### [user-details](https://github.com/Juby210/user-details) by [Juby210](https://github.com/Juby210/)
 >Displays when user created account, joined to server and when sent last or first message in selected server / dm.
 >
