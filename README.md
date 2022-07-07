@@ -113,7 +113,7 @@ ___
 ### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/)
 >Animate smoothly when scrolling though discord!
 
-### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (Using a modified version of Eternal's) (spotify-crack link goes to my fork)
+### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (spotify-crack link goes to my fork)
 >Allows you to listen along with discord users without premium.
 
 ### [text-react](https://github.com/Juby210/text-react) by [Juby210](https://github.com/Juby210/)
@@ -138,7 +138,7 @@ ___
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
 
-### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (Using a modified version of RazorMoon's) (vcTimer link goes to my fork)
+### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (vcTimer link goes to my fork)
 >Shows how much time has passed since you joined a voice channel.
 
 # [Unbound](https://unbound.rip) 
