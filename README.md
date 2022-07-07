@@ -74,7 +74,7 @@ ___
 ### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/blob/master/UserDetails/UserDetails.plugin.js) by [Strencher](https://github.com/Strencher)
 >Shows you a lot information about users in both the UserPopout and UserProfile Modal.
 >
->schematic: $hour:$minute - $month/$day/$year, 12 hour, last message at turned off, show empty off, show gamepad off
+>schematic: $hour:$minute $timelabel - $month/$day/$year, 12 hour, last message at turned off, show empty off, show gamepad off
 
 ### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins.
