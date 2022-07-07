@@ -71,6 +71,9 @@ ___
 ### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
 
+### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/blob/master/UserDetails/UserDetails.plugin.js) by [Strencher](https://github.com/Strencher)
+>Shows you a lot information about users in both the UserPopout and UserProfile Modal.
+
 ### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins.
 
@@ -129,11 +132,6 @@ ___
 
 ### [Unindent](https://github.com/VenPlugs/Unindent) by [Vendicated](https://github.com/Vendicated)
 >Trims both messages you send and codeblocks sent by others.
-
-### [user-details](https://github.com/Juby210/user-details) by [Juby210](https://github.com/Juby210/)
->Displays when user created account, joined to server and when sent last or first message in selected server / dm.
->
->Display "Last/First message" off, format `%H:%M %ampm - %m/%d/%y`
 
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
