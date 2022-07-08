@@ -130,6 +130,11 @@ ___
 ### [Unindent](https://github.com/VenPlugs/Unindent) by [Vendicated](https://github.com/Vendicated)
 >Trims both messages you send and codeblocks sent by others.
 
+### [user-details](https://github.com/Juby210/user-details) by [Juby210](https://github.com/Juby210/)
+>Displays when user created account, joined to server and when sent last or first message in selected server / dm.
+>
+>Display "Last/First message" off, format `%H:%M %ampm - %m/%d/%y`
+
 ### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
 >A powercord plugin to look up information about the user using their ID.
 
