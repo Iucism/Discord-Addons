@@ -71,11 +71,6 @@ ___
 ### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
 >Allows you to save images, videos, profile icons, server icons, reactions, emotes, custom status emotes and stickers to any folder quickly, as well as install plugins from direct links.
 
-### [UserDetails](https://github.com/Strencher/BetterDiscordStuff/blob/master/UserDetails/UserDetails.plugin.js) by [Strencher](https://github.com/Strencher)
->Shows you a lot information about users in both the UserPopout and UserProfile Modal.
->
->schematic: $hour:$minute $timelabel - $month/$day/$year, 12 hour, last message at turned off, show empty off, use actiivtyicons off
-
 ### [XenoLib](https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/1XenoLib.plugin.js) by [Lighty](https://github.com/1Lighty/)
 >Plugin Library for Lighty's Plugins.
 
