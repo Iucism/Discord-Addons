@@ -96,7 +96,7 @@ ___
 ### [powercord-stafftags](https://github.com/Puyodead1/powercord-stafftags) by [Puyodead1](https://github.com/Puyodead1/)
 >Displays owner, admin, and staff tags similar to bot tags, they can appear in the member list and/or chat.
 
-### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Iucism](https://github.com/Iucism/)
+### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Me](https://github.com/Iucism)
 >Adds Heart to message buttons.
 
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
@@ -157,5 +157,7 @@ ___
 
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 
-### [RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) by [GooseNest](https://github.com/Goose-Nest) 
->Variables
+### [Styles](https://github.com/Iucism/Styles) by [Me](https://github.com/Iucism)
+>My personal styles
+
+
