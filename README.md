@@ -96,8 +96,8 @@ ___
 ### [powercord-stafftags](https://github.com/Puyodead1/powercord-stafftags) by [Puyodead1](https://github.com/Puyodead1/)
 >Displays owner, admin, and staff tags similar to bot tags, they can appear in the member list and/or chat.
 
-### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Me](https://github.com/Iucism)
->Personal Plugin
+### [QuickHeart](https://github.com/Iucism/QuickHeart)
+>Personal Plugin.
 
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
@@ -157,7 +157,13 @@ ___
 
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 
-### [Styles](https://github.com/Iucism/Styles) by [Me](https://github.com/Iucism)
->My personal styles
+### [Styles](https://github.com/Iucism/Styles)
+>Personal Styles
 
+___
+
+<h1 align="center">Extra ✨</h1>
+
+### [OpenAsar](https://openasar.dev/)
+>Rewrite of part of Discord's desktop code, making it snappier and include more features like further customization and theming.
 
