@@ -97,7 +97,7 @@ ___
 >Displays owner, admin, and staff tags similar to bot tags, they can appear in the member list and/or chat.
 
 ### [QuickHeart](https://github.com/Iucism/QuickHeart) by [Me](https://github.com/Iucism)
->Adds Heart to message buttons.
+>Personal Plugin
 
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
 >Small Powercord plugin to add reload and relaunch buttons to the system tray.
