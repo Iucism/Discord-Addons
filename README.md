@@ -96,7 +96,7 @@ ___
 ### [powercord-stafftags](https://github.com/Puyodead1/powercord-stafftags) by [Puyodead1](https://github.com/Puyodead1/)
 >Displays owner, admin, and staff tags similar to bot tags, they can appear in the member list and/or chat.
 
-### [QuickHeart](https://github.com/Iucism/QuickHeart)
+### [QuickEmoji](https://github.com/Iucism/QuickHeart)
 >Personal Plugin.
 
 ### [reload-from-tray](https://github.com/D-Brox/reload-from-tray) by [D-Brox](https://github.com/D-Brox)
