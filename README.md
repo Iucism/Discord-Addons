@@ -135,9 +135,6 @@ ___
 >
 >Display "Last/First message" off, format `%H:%M %ampm - %m/%d/%y`
 
-### [user-lookup](https://github.com/discord-modifications/user-lookup) by [Eternal](https://github.com/localip)
->A powercord plugin to look up information about the user using their ID.
-
 ### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (vcTimer link goes to my fork)
 >Shows how much time has passed since you joined a voice channel.
 
