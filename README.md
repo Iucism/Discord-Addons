@@ -116,9 +116,6 @@ ___
 ### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (spotify-crack link goes to my fork)
 >Allows you to listen along with discord users without premium.
 
-### [text-react](https://github.com/Juby210/text-react) by [Juby210](https://github.com/Juby210/)
->Adds a command & button to react on message with regional indicators.
-
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
 >A really simple plugin to get your Discord token via a command.
 
