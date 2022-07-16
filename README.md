@@ -2,7 +2,6 @@
 
 Packages/Plugins/Themes I use for [discord](https://discord.com/app)
 
-
 **THANK YOU** [VOZY](https://github.com/SlippingGitty) FOR HELPING ME 💖🌟
 
 ___
@@ -16,7 +15,7 @@ ___
 
 ### [Crash Recovery](https://github.com/strencher-kernel/crash-recovery) by [Strencher](https://github.com/Strencher)
 >A kernel package that allows you to recover from react invariant crashes.
->
+
 ### [Code Snippets](https://github.com/swishs-client-mod-plugins/code-snippets) by [Swishilicous](https://github.com/Swishilicous)
 >A Kernel Package that adds a tab to Discord settings where you can add and arrange custom code snippets.
 
