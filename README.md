@@ -84,9 +84,6 @@ ___
 >
 >My timestamp schematic `%h:%0m %AM - %M/%D/%Y` My timestamp bubble schematic `%h:%0m %AM %W, %N %D, %Y`
 
-### [GuildProfile](https://github.com/NurMarvin/guild-profile) by [NurMarvin](https://github.com/NurMarvin)
->Open a guild profile modal that gives you various information about the guild.
-
 ### [mention-cache-fix](https://github.com/asportnoy/mention-cache-fix) by [asportnoy](https://github.com/asportnoy/)
 >This plugin fixes uncached user mentions including in embeds (since Discord claims this is "intended behavior"). Due to rate limits, this will only be triggered when you hover on a message.
 
