@@ -140,12 +140,18 @@ ___
 <h1 align="center">Themes ✨</h1>
 
 ### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [Eternal](https://github.com/localip)
+>An actual dark mode for discord.
 
 ### [Essence](https://github.com/discord-extensions/essence) by [LuckFire](https://github.com/LuckFire)
+>A smooth, rounded theme.
 
 ### [Item Pills](https://github.com/discord-extensions/item-pills) by [LuckFire](https://github.com/LuckFire)
 
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
+>Changes the status icons to wrap around the avatar.
+
+### [surCord](https://github.com/SlippingGitty/surCord) by [Vozer](https://github.com/SlippingGitty)
+>A Discord Theme inspired by macOS & Human Interface Guidelines.
 
 ### [Styles](https://github.com/Iucism/Styles)
 >Personal Styles
