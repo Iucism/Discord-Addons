@@ -19,7 +19,7 @@ ___
 ### [Code Snippets](https://github.com/swishs-client-mod-plugins/code-snippets) by [Swishilicous](https://github.com/Swishilicous)
 >A Kernel Package that adds a tab to Discord settings where you can add and arrange custom code snippets.
 
-### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [Eternal](https://github.com/localip)
+### [Discord Utilities](https://github.com/discord-modifications/discord-utilities) by [eternal](https://github.com/localip)
 >A package adding several utilities to discord.
 
 ### [No Sentry](https://github.com/strencher-kernel/no-sentry) by [Strencher](https://github.com/Strencher)
@@ -109,7 +109,7 @@ ___
 ### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/)
 >Animate smoothly when scrolling though discord!
 
-### [spotify-crack](https://github.com/Iucism/spotify-crack) by [Eternal](https://github.com/localip) (spotify-crack link goes to my fork)
+### [spotify-crack](https://github.com/Iucism/spotify-crack) by [eternal](https://github.com/localip) (spotify-crack link goes to my fork)
 >Allows you to listen along with discord users without premium.
 
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
@@ -139,7 +139,7 @@ ___
 
 <h1 align="center">Themes ✨</h1>
 
-### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [Eternal](https://github.com/localip)
+### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [eternal](https://github.com/localip)
 >An actual dark mode for discord.
 
 ### [Essence](https://github.com/discord-extensions/essence) by [LuckFire](https://github.com/LuckFire)
