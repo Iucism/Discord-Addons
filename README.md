@@ -150,7 +150,7 @@ ___
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 >Changes the status icons to wrap around the avatar.
 
-### [surCord](https://github.com/SlippingGitty/surCord) by [Vozer](https://github.com/SlippingGitty)
+### [surCord](https://github.com/SlippingGitty/surCord) by [Vozer](https://github.com/SlippingGitty) 🌟
 >A Discord Theme inspired by macOS & Human Interface Guidelines.
 
 ### [Styles](https://github.com/Iucism/Styles)
