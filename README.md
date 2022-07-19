@@ -153,9 +153,6 @@ ___
 ### [surCord](https://github.com/SlippingGitty/surCord) by [Vozer](https://github.com/SlippingGitty) 🌟
 >A Discord Theme inspired by macOS & Human Interface Guidelines.
 
-### [Styles](https://github.com/Iucism/Styles)
->Personal Styles
-
 ___
 
 <h1 align="center">Extra ✨</h1>
