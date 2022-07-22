@@ -139,8 +139,6 @@ ___
 ### [Essence](https://github.com/discord-extensions/essence) by [LuckFire](https://github.com/LuckFire)
 >A smooth, rounded theme.
 
-### [Item Pills](https://github.com/discord-extensions/item-pills) by [LuckFire](https://github.com/LuckFire)
-
 ### [RadialStatus](https://github.com/DiscordStyles/RadialStatus) by [Gibbu](https://github.com/Gibbu)
 >Changes the status icons to wrap around the avatar.
 
