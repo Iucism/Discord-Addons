@@ -106,9 +106,6 @@ ___
 ### [SmoothScrollPowerCord](https://github.com/LynithDev/SmoothScrollPowerCord) by [LynithDev](https://github.com/LynithDev/)
 >Animate smoothly when scrolling though discord!
 
-### [spotify-crack](https://github.com/Iucism/spotify-crack) by [eternal](https://github.com/localip) (spotify-crack link goes to my fork)
->Allows you to listen along with discord users without premium.
-
 ### [token](https://github.com/FifiTheBulldog/token) by [FifiTheBulldog](https://github.com/FifiTheBulldog/)
 >A really simple plugin to get your Discord token via a command.
 
