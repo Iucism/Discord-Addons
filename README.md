@@ -136,9 +136,6 @@ ___
 
 <h1 align="center">Themes ✨</h1>
 
-### [Dark Discord](https://github.com/discord-modifications/dark-discord) by [eternal](https://github.com/localip)
->An actual dark mode for discord.
-
 ### [Essence](https://github.com/discord-extensions/essence) by [LuckFire](https://github.com/LuckFire)
 >A smooth, rounded theme.
 
