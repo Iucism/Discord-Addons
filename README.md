@@ -6,7 +6,7 @@ Packages/Plugins/Themes I use for [discord](https://discord.com/app)
 
 ___
 
-<h1 align="center">Packages 🌟</h1>
+<h1 align="center">Packages</h1>
 
 # [Kernel](https://github.com/kernel-mod)
 
@@ -36,7 +36,7 @@ ___
 
 ___
 
-<h1 align="center">Plugins ✨</h1>
+<h1 align="center">Plugins</h1>
 
 # [BetterDiscord](https://betterdiscord.app) 
 
@@ -134,7 +134,7 @@ COMING SOON
 
 ___
 
-<h1 align="center">Themes ✨</h1>
+<h1 align="center">Themes</h1>
 
 ### [Essence](https://github.com/discord-extensions/essence) by [LuckFire](https://github.com/LuckFire)
 >A smooth, rounded theme.
@@ -149,7 +149,7 @@ ___
 
 ___
 
-<h1 align="center">Extra ✨</h1>
+<h1 align="center">Other</h1>
 
 ### [OpenAsar](https://openasar.dev/)
 >Rewrite of part of Discord's desktop code, making it snappier and include more features like further customization and theming.
