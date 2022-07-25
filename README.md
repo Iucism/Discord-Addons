@@ -43,22 +43,22 @@ ___
 ### [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/BetterImageViewer) by [Lighty](https://github.com/1Lighty/)
 >Move between images in the entire channel with arrow keys, image zoom enabled by clicking and holding, scroll wheel to zoom in and out, hold shift to change lens size.
 
-### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/ca6ff3e97055223f08c65eda922cbbd93122a5d3/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
+### [BetterVolume](https://github.com/Zerthox/BetterDiscord-Plugins/blob/master/dist/bd/BetterVolume.plugin.js) by [Zerthox](https://github.com/Zerthox/)
 >Set user volume values manually instead of using a limited slider.
 
-### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/42b4892334e8d6b9ac4fa3ada8233ab2efc9eee5/Copier) by [Strencher](https://github.com/Strencher)
+### [Copier](https://github.com/Strencher/BetterDiscordStuff/tree/master/Copier) by [Strencher](https://github.com/Strencher)
 >Allows you to copy certain stuff with custom options.
 
 ### [ColorTooltips](https://github.com/Puv1s/ColorTooltips) by [Puv1s](https://github.com/Puv1s)
 >Plugin that highlights HEX, RGB and RGBA colors in chat.
 
-### [InvisibleTyping](https://github.com/Strencher/BetterDiscordStuff/blob/06e4ec4ef7c38d0d001d240d7cc42b18ae2cf242/InvisibleTyping/InvisibleTyping.plugin.js) by [Strencher](https://github.com/Strencher)
+### [InvisibleTyping](https://github.com/Strencher/BetterDiscordStuff/blob/master/InvisibleTyping/InvisibleTyping.plugin.js) by [Strencher](https://github.com/Strencher)
 >Enhanced version of silent typing.
 
 ### [MessageloggerV2](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/MessageLoggerV2) by [Lighty](https://github.com/1Lighty/)
 >Saves all deleted and purged messages, as well as all edit history and ghost pings. With highly configurable ignore options, and even restoring deleted messages after restarting Discord.
 
-### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/6b3581f58ef95dcaa13079998687ab82dee24362/PlatformIndicators) by [Strencher](https://github.com/Strencher)
+### [PlatformIndicatiors](https://github.com/Strencher/BetterDiscordStuff/tree/master/PlatformIndicators) by [Strencher](https://github.com/Strencher)
 >Adds indicators for every platform that the user is using.
 
 ### [SaveToRedux](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/SaveToRedux) by [Lighty](https://github.com/1Lighty/)
