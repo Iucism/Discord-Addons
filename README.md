@@ -1,11 +1,3 @@
-# Discord addons
-
-Packages/Plugins/Themes I use for [discord](https://discord.com/app)
-
-**THANK YOU** [VOZY](https://github.com/SlippingGitty) FOR HELPING ME 💖🌟
-
-___
-
 <h1 align="center">Packages</h1>
 
 # [Kernel](https://github.com/kernel-mod)
