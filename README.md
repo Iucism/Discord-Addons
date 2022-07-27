@@ -111,9 +111,6 @@ ___
 >
 >Display "Last/First message" off, format `%H:%M %ampm - %m/%d/%y`
 
-### [vcTimer](https://github.com/Iucism/vcTimer) by [RazerMoon](https://github.com/RazerMoon/) (vcTimer link goes to my fork)
->Shows how much time has passed since you joined a voice channel.
-
 # [Unbound](https://unbound.rip) 
 
 COMING SOON
