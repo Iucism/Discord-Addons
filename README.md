@@ -64,7 +64,7 @@ ___
 
 # [Powercord](https://powercord.dev/) 
 
-### [custom-timestamps](https://github.com/TaiAurori/custom-timestamps) by [TaiAuroi](https://github.com/TaiAurori)
+### [custom-timestamps](https://github.com/AnthonyFuller/custom-timestamps) by [TaiAuroi](https://github.com/TaiAurori)
 >A Powercord plugin that displays custom timestamps on messages.
 >
 >My timestamp schematic `%h:%0m %AM - %M/%D/%Y` My timestamp bubble schematic `%h:%0m %AM %W, %N %D, %Y`
